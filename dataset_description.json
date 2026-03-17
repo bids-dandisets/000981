@@ -1,0 +1,29 @@
+{
+    "Name": "Whole-brain chemosensory responses of both C. elegans sexes",
+    "BIDSVersion": "1.10",
+    "HEDVersion": "8.3.0",
+    "Description": "Datasets for the preprint: https://www.biorxiv.org/content/10.1101/2025.05.15.654129v1.full",
+    "DatasetType": "raw",
+    "Authors": [
+        "Seyedolmohadesin, Maedeh",
+        "Fu, Xingyang",
+        "Torkashvand, Mahdi",
+        "Rasouli, Sina",
+        "Lang, Samuel",
+        "Li, Liangzi",
+        "Kalinski, Cristine",
+        "Cook, Steven",
+        "Schroeder, Frank",
+        "Yemini Eviatar",
+        "Venkatachalam, Vivek"
+    ],
+    "License": "CC-BY-4.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.9.1.dev27+gf0fb7253c",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
+}
